@@ -13,4 +13,4 @@
 
 ![Change shortcut](https://github.com/PazzaVlad/UkrainianKeyboardOSX/blob/master/screenshots/changeShortcut.png)
 
-*Работоспособность проверялась на OS X 10.10 Yosemite и 10.11 EL Capitan, но должно работать на любых версиях*
+*Работоспособность проверялась на OS X 10.10 Yosemite и 10.11 EL Capitan, но должно работать на любых версиях*.
