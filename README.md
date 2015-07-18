@@ -9,7 +9,7 @@
 #### Установка:
 1. [Скачать архив](https://github.com/PazzaVlad/UkrainianKeyboardOSX/releases/download/v1.0/RuUaChange.zip) и распаковать его.
 2. Установить файл "RuUaChange" дважды кликнув на него.
-3. Выбрать удобный вам шорткат для перевода: для этого заходим в "Настройки" -> "Клавиатура" -> "Сочетание клавиш"  -> "Службы" ищем службу "RuUaChange" и присваиваем ей нужный шорткар.
+3. Выбрать удобный вам шорткат для перевода: для этого заходим в "Настройки" -> "Клавиатура" -> "Сочетание клавиш"  -> "Службы" ищем службу "RuUaChange" и присваиваем ей нужный шорткат.
 
 ![Change shortcut](https://github.com/PazzaVlad/UkrainianKeyboardOSX/blob/master/screenshots/changeShortcut.png)
 
